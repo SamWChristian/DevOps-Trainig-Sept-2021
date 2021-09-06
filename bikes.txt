@@ -2,3 +2,4 @@ BMW
 KTM
 Honda
 Bajaj
+Vespa
